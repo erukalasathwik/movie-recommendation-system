@@ -17,7 +17,10 @@ A movie recommendation system built using **Collaborative Filtering** and **Cont
 ##  Project Structure
 
 movie-recommendation-system/
+
+
                           │ ├── main.py # Flask app
+
 ├── data/
 
 
@@ -30,6 +33,8 @@ movie-recommendation-system/
           │ └── recommendation_model.pkl # Trained model
 
 ├── requirements.txt
+
+
 ├── README.md
 
 
