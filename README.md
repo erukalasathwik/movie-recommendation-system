@@ -19,10 +19,14 @@ A movie recommendation system built using **Collaborative Filtering** and **Cont
 movie-recommendation-system/
                           │ ├── main.py # Flask app
 ├── data/
+
+
         │ ├── movies_metadata.csv # Movie metadata
         │ └── credits.csv # User ratings
 
 ├── models/
+
+
           │ └── recommendation_model.pkl # Trained model
 
 ├── requirements.txt
